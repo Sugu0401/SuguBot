@@ -241,7 +241,7 @@ async def profile(ctx, region, nombre):
         url="https://u.gg/lol/profile/la1/"
         response=url+nombre+"/overview"
     if region=="br":
-        url="https://u.gg/lol/profile/la2/"
+        url="https://u.gg/lol/profile/br1/"
         response=url+nombre+"/overview"
     if region=="na":
         url="https://u.gg/lol/profile/na1/"
