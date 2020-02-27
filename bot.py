@@ -34,8 +34,8 @@ from functools import partial
 from youtube_dl import YoutubeDL
 
 load_dotenv()
-token = "NjgyNDQ2MzQ0MjQxMDIxMDMy.XldIGg.v2B7SSTxpJKWOH22BShXXfagfIw"
-YOUTUBE_API = 'AIzaSyAXdLROaC5iXsY5297_wNfDoWtNLfL77Lk'
+token = "Aca va tu token"
+YOUTUBE_API = 'Aca va tu API de yt'
 c=0
 count=0
 client = commands.Bot(command_prefix='/')
